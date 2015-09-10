@@ -1,0 +1,10 @@
+git.init : 시작 
+ls -al : 리눅스 컴터 가져옴
+ls .git : ?
+저장하기 : citrl s
+취소 : citrl x
+git add . : 추가
+git status : 보여줌
+git commit -m "~~" : ~~라고 저장함
+git push : 올림
+아이디와 비번 입력, 비번은 안나옴
